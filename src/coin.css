@@ -1,0 +1,11 @@
+.coin {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+
+img {
+    height: 300px;
+    width: auto;
+}
